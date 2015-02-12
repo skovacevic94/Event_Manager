@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <enumeration id="1" language="java" name="orgSoft.model.TipDogadjaja" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/model/TipDogadjaja.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="142" x="1212" y="2876"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="2" language="java" name="orgSoft.model.Kalendar" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/model/Kalendar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="322" x="881" y="1803"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="orgSoft.model.Dogadjaj" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/model/Dogadjaj.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="449" width="346" x="911" y="2387"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="orgSoft.pogled.DogadjajPogled" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/pogled/DogadjajPogled.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="386" x="822" y="730"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="orgSoft.pogled.KalendarDugme" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/pogled/KalendarDugme.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="179" x="586" y="2876"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="orgSoft.pogled.KalendarPanel" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/pogled/KalendarPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="249" x="571" y="1803"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="orgSoft.pogled.GlavniOkvir" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/pogled/GlavniOkvir.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="197" x="1306" y="1366"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="orgSoft.pogled.KontrolniPanel" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/pogled/KontrolniPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="170" x="1636" y="2086"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="orgSoft.pogled.KratkiPregled" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/pogled/KratkiPregled.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="248" x="1306" y="1803"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="orgSoft.pogled.KratkiPregled.TipPregleda" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/pogled/KratkiPregled.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="266" x="1288" y="2086"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="orgSoft.pogled.MojeDugme" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/pogled/MojeDugme.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="131" x="1801" y="2876"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="12" language="java" name="orgSoft.pogled.TipPogleda" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/pogled/TipPogleda.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="150" x="62" y="1031"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="13" language="java" name="orgSoft.kontroler.KontrolerMenadzer" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/kontroler/KontrolerMenadzer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="133" x="1608" y="176"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="orgSoft.kontroler.DanAkcija" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/kontroler/DanAkcija.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1993" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="orgSoft.kontroler.DodajAkcija" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/kontroler/DodajAkcija.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1525" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="orgSoft.kontroler.GodinaAkcija" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/kontroler/GodinaAkcija.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="190" x="592" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="orgSoft.kontroler.MesecAkcija" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/kontroler/MesecAkcija.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="190" x="822" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="orgSoft.kontroler.SacuvajAkcija" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/kontroler/SacuvajAkcija.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2461" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="orgSoft.kontroler.TraziAkcija" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/kontroler/TraziAkcija.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="1759" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="orgSoft.kontroler.UcitajAkcija" project="OrgSoft" 
+    file="/OrgSoft/src/orgSoft/kontroler/UcitajAkcija.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="194" x="2227" y="315"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="orgSoft.OrgSoft" project="OrgSoft" file="/OrgSoft/src/orgSoft/OrgSoft.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="1485" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="java.util.Calendar" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="349" width="304" x="805" y="2876"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="java.lang.String" project="OrgSoft" file="C:/Program Files/Java/jre7/lib/rt.jar" 
+    binary="true" corner="BOTTOM_RIGHT">    
+    <position height="335" width="263" x="805" y="3265"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="javax.swing.JLabel" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="415" width="235" x="1592" y="2387"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="javax.swing.JPanel" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="261" width="234" x="1318" y="2387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="javax.swing.JButton" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="315" width="234" x="565" y="2387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="javax.swing.JTextField" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="323" width="364" x="56" y="2387"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="javax.swing.JFrame" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="295" width="257" x="902" y="1031"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="javax.swing.JDialog" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="375" width="314" x="1052" y="315"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="javax.swing.JComboBox" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="231" width="364" x="83" y="2086"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="31" language="java" name="java.awt.event.ItemListener" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="81" width="190" x="592" y="730"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="32" language="java" name="java.awt.event.ActionListener" project="OrgSoft" 
+    file="C:/Program Files/Java/jre7/lib/rt.jar" binary="true" corner="BOTTOM_RIGHT">    
+    <position height="81" width="194" x="1993" y="2387"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <association id="33">    
+    <bendpoint x="1426" y="2876"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="34" name="LABELED_BY_PROPERTY"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="37" name="brojDanaLbl"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="40" name="izborMeseca"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="43" name="kraj"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="45">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <association id="46">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="47" name="pretraziPanel"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="49">    
+    <bendpoint x="2236" y="730"/>    
+    <bendpoint x="2236" y="1031"/>    
+    <bendpoint x="2236" y="1366"/>    
+    <bendpoint x="2236" y="1803"/>    
+    <bendpoint x="2236" y="2086"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <association id="50">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="51" name="tip"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <association id="54">    
+    <bendpoint x="1139" y="2876"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="55" name="opisDogadjaja"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="58" name="desniPanel"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <bendpoint x="1941" y="2387"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="61" name="sacuvajKal"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="63">    
+    <bendpoint x="1473" y="1031"/>    
+    <bendpoint x="1550" y="1366"/>    
+    <bendpoint x="1626" y="1803"/>    
+    <bendpoint x="1605" y="2086"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="64">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="65" name="brojDDog"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <bendpoint x="456" y="1031"/>    
+    <bendpoint x="456" y="1366"/>    
+    <bendpoint x="456" y="1803"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="68" name="minutePocetak"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="70">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="71">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="72" name="sacuvajAkcija"/>      
+      <multiplicity id="73" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="75" name="instanca"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <bendpoint x="498" y="1031"/>    
+    <bendpoint x="498" y="1366"/>    
+    <bendpoint x="498" y="1803"/>    
+    <bendpoint x="498" y="2086"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="78" name="obrisi"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="81" name="leviPanel"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="83">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="84" name="pocetak"/>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="86">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="87" name="mesecAkcija"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="89">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="90" name="desniPomPanel"/>      
+      <multiplicity id="91" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="92">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <generalization id="93">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <association id="94">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="95" name="panelListe"/>      
+      <multiplicity id="96" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="97">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="31"/>  
+  </realization>  
+  <association id="98">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="99" name="ucitajAkcija"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="101">    
+    <bendpoint x="408" y="2876"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="102" name="notifyAction"/>      
+      <multiplicity id="103" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="104">    
+    <bendpoint x="871" y="1031"/>    
+    <bendpoint x="871" y="1366"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="105" name="model"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="107">    
+    <bendpoint x="519" y="1031"/>    
+    <bendpoint x="519" y="1366"/>    
+    <bendpoint x="519" y="1803"/>    
+    <bendpoint x="540" y="2086"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="108" name="ponisti"/>      
+      <multiplicity id="109" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="110">    
+    <bendpoint x="1962" y="730"/>    
+    <bendpoint x="1962" y="1031"/>    
+    <bendpoint x="1962" y="1366"/>    
+    <bendpoint x="1962" y="1803"/>    
+    <bendpoint x="1962" y="2086"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <association id="111">    
+    <bendpoint x="1836" y="1803"/>    
+    <bendpoint x="1836" y="2086"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="112" name="slika"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="114">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <realization id="115">    
+    <bendpoint x="2119" y="730"/>    
+    <bendpoint x="2119" y="1031"/>    
+    <bendpoint x="2119" y="1366"/>    
+    <bendpoint x="2119" y="1803"/>    
+    <bendpoint x="2119" y="2086"/>    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <association id="116">    
+    <bendpoint x="850" y="1031"/>    
+    <bendpoint x="850" y="1366"/>    
+    <bendpoint x="850" y="1803"/>    
+    <bendpoint x="850" y="2086"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="117" name="pregled"/>      
+      <multiplicity id="118" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="119">    
+    <bendpoint x="1160" y="2876"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="120" name="lokacijaDogadjaja"/>      
+      <multiplicity id="121" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="122">    
+    <bendpoint x="242" y="1031"/>    
+    <bendpoint x="179" y="1366"/>    
+    <bendpoint x="116" y="1803"/>    
+    <bendpoint x="52" y="2086"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="123" name="lokacija"/>      
+      <multiplicity id="124" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="125">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <association id="126">    
+    <bendpoint x="920" y="2086"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="127" name="dogadjaji"/>      
+      <multiplicity id="128" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="129">    
+    <bendpoint x="1605" y="1803"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="130" name="kontrolniPanel"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="132">    
+    <bendpoint x="1181" y="2876"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="133" name="nazivDogadjaja"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="136" name="godinaAkcija"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="139" name="ostaloPregled"/>      
+      <multiplicity id="140" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="141">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="142" name="dodajAkcija"/>      
+      <multiplicity id="143" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="144">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="145">    
+    <bendpoint x="1405" y="2876"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="146" name="text"/>      
+      <multiplicity id="147" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="148">    
+    <bendpoint x="1494" y="176"/>    
+    <bendpoint x="1494" y="315"/>    
+    <bendpoint x="1494" y="730"/>    
+    <bendpoint x="1494" y="1031"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="149">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="150" name="panelPodesavanja"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <bendpoint x="477" y="1031"/>    
+    <bendpoint x="477" y="1366"/>    
+    <bendpoint x="477" y="1803"/>    
+    <bendpoint x="477" y="2086"/>    
+    <bendpoint x="513" y="2387"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="153" name="kalendar"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="156" name="kratkiPregled"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="158">    
+    <bendpoint x="450" y="2387"/>    
+    <bendpoint x="450" y="2876"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="159" name="uiClassID"/>      
+      <multiplicity id="160" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="161">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="162" name="mesec"/>      
+      <multiplicity id="163" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="164">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="165" name="kalendarPanel"/>      
+      <multiplicity id="166" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="167">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="168" name="kalendarModel"/>      
+      <multiplicity id="169" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="170">    
+    <bendpoint x="555" y="2876"/>    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="171" name="uiClassID"/>      
+      <multiplicity id="172" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="173">    
+    <bendpoint x="1584" y="1803"/>    
+    <bendpoint x="1584" y="2086"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="174" name="glavniPanel"/>      
+      <multiplicity id="175" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="176">    
+    <bendpoint x="414" y="1031"/>    
+    <bendpoint x="414" y="1366"/>    
+    <bendpoint x="414" y="1803"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="177" name="minuteKraj"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="179">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="180" name="danAkcija"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="182">    
+    <bendpoint x="1899" y="1031"/>    
+    <bendpoint x="1907" y="1366"/>    
+    <bendpoint x="1914" y="1803"/>    
+    <bendpoint x="1920" y="2086"/>    
+    <bendpoint x="1962" y="2387"/>    
+    <bendpoint x="1962" y="2876"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="183">    
+    <bendpoint x="1254" y="1803"/>    
+    <bendpoint x="1215" y="2086"/>    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="184">    
+    <bendpoint x="429" y="2876"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="185" name="uiClassID"/>      
+      <multiplicity id="186" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="187">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="28"/>  
+  </generalization>  
+  <association id="188">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="189" name="posaoPregled"/>      
+      <multiplicity id="190" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="191">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="192" name="faksPregled"/>      
+      <multiplicity id="193" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="194">    
+    <bendpoint x="1878" y="2387"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="195" name="ucitajKal"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="197">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="198" name="datumLabela"/>      
+      <multiplicity id="199" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="200">    
+    <bendpoint x="387" y="2876"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="201" name="command"/>      
+      <multiplicity id="202" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="203">    
+    <bendpoint x="1899" y="2387"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="204" name="izlaz"/>      
+      <multiplicity id="205" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="206">    
+    <bendpoint x="31" y="1031"/>    
+    <bendpoint x="31" y="1366"/>    
+    <bendpoint x="31" y="1803"/>    
+    <bendpoint x="31" y="2086"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="207" name="naslov"/>      
+      <multiplicity id="208" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="209">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="210" name="traziAkcija"/>      
+      <multiplicity id="211" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="212">    
+    <bendpoint x="941" y="2086"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="213" name="godinaPanel"/>      
+      <multiplicity id="214" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="215">    
+    <bendpoint x="983" y="2086"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <dependency id="216">    
+    <bendpoint x="1189" y="1031"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="217">    
+    <bendpoint x="1257" y="2086"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <association id="218">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="219" name="izborGodine"/>      
+      <multiplicity id="220" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="221">    
+    <bendpoint x="582" y="1031"/>    
+    <bendpoint x="540" y="1366"/>    
+    <bendpoint x="540" y="1803"/>    
+    <bendpoint x="561" y="2086"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="222" name="dodaj"/>      
+      <multiplicity id="223" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="224">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="29"/>  
+  </generalization>  
+  <association id="225">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="226" name="FIELD_NAME"/>      
+      <multiplicity id="227" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="228">    
+    <bendpoint x="393" y="1031"/>    
+    <bendpoint x="393" y="1366"/>    
+    <bendpoint x="393" y="1803"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="229" name="satiKraj"/>      
+      <multiplicity id="230" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="231">    
+    <bendpoint x="1384" y="2876"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="232" name="uiClassID"/>      
+      <multiplicity id="233" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="234">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="235" name="tip"/>      
+      <multiplicity id="236" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="237">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <association id="238">    
+    <bendpoint x="1447" y="2876"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="239" name="uiClassID"/>      
+      <multiplicity id="240" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="241">    
+    <bendpoint x="519" y="2086"/>    
+    <bendpoint x="492" y="2387"/>    
+    <bendpoint x="492" y="2876"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="242" name="DANI"/>      
+      <multiplicity id="243" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="244">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="245" name="povecajDan"/>      
+      <multiplicity id="246" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="247">    
+    <bendpoint x="471" y="2387"/>    
+    <bendpoint x="471" y="2876"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="248" name="actionCommand"/>      
+      <multiplicity id="249" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="250">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="26"/>  
+  </generalization>  
+  <dependency id="251">    
+    <bendpoint x="1857" y="1031"/>    
+    <bendpoint x="1857" y="1366"/>    
+    <bendpoint x="1857" y="1803"/>    
+    <bendpoint x="1857" y="2086"/>    
+    <bendpoint x="1857" y="2387"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="252">    
+    <bendpoint x="1920" y="730"/>    
+    <bendpoint x="1920" y="1031"/>    
+    <bendpoint x="1598" y="1366"/>    
+    <bendpoint x="1275" y="1803"/>    
+    <bendpoint x="1236" y="2086"/>    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <realization id="253">    
+    <bendpoint x="2002" y="730"/>    
+    <bendpoint x="2002" y="1031"/>    
+    <bendpoint x="2002" y="1366"/>    
+    <bendpoint x="2002" y="1803"/>    
+    <bendpoint x="2002" y="2086"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <association id="254">    
+    <bendpoint x="962" y="2086"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="255" name="daniPanel"/>      
+      <multiplicity id="256" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="257">    
+    <bendpoint x="1920" y="2387"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="258" name="noviDog"/>      
+      <multiplicity id="259" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="260">    
+    <bendpoint x="1233" y="1803"/>    
+    <bendpoint x="899" y="2086"/>    
+    <bendpoint x="880" y="2387"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="261" name="kalendar"/>      
+      <multiplicity id="262" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="263">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="264" name="brojMDog"/>      
+      <multiplicity id="265" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="266">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </nesting>  
+  <dependency id="267">    
+    <bendpoint x="561" y="176"/>    
+    <bendpoint x="561" y="315"/>    
+    <bendpoint x="561" y="730"/>    
+    <bendpoint x="561" y="1031"/>    
+    <bendpoint x="561" y="1366"/>    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="268">    
+    <bendpoint x="829" y="2086"/>    
+    <bendpoint x="829" y="2387"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="269" name="danDugme"/>      
+      <multiplicity id="270" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="271">    
+    <bendpoint x="1287" y="2387"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="272" name="tipDogadjaja"/>      
+      <multiplicity id="273" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="274">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="275" name="traziDog"/>      
+      <multiplicity id="276" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="277">    
+    <bendpoint x="435" y="1031"/>    
+    <bendpoint x="435" y="1366"/>    
+    <bendpoint x="435" y="1803"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="278" name="satiPocetak"/>      
+      <multiplicity id="279" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="280">    
+    <bendpoint x="582" y="2086"/>    
+    <bendpoint x="534" y="2387"/>    
+    <bendpoint x="534" y="2876"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="281" name="MESECI"/>      
+      <multiplicity id="282" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="283">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="284" name="traziDugme"/>      
+      <multiplicity id="285" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="286">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="287" name="smanjiDan"/>      
+      <multiplicity id="288" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="289">    
+    <bendpoint x="1878" y="1031"/>    
+    <bendpoint x="1878" y="1366"/>    
+    <bendpoint x="1878" y="1803"/>    
+    <bendpoint x="1878" y="2086"/>    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <realization id="290">    
+    <bendpoint x="1899" y="730"/>    
+    <bendpoint x="1941" y="1031"/>    
+    <bendpoint x="1941" y="1366"/>    
+    <bendpoint x="1941" y="1803"/>    
+    <bendpoint x="1941" y="2086"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="32"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
